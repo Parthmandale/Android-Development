@@ -1,5 +1,5 @@
 # Android-Dev-Resources
-The project aims  to provide high Quality resources and roadmaps  regarding Android Development under roof in  easy to consume manner .
+The project aims to provide high Quality resources and roadmaps regarding Android Development under one roof in easy to consume manner.
 
 ## How to contribute to this project
 
